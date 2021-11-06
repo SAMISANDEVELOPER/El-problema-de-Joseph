@@ -1,0 +1,2 @@
+# El-problema-de-Joseph
+Lista circular enlazada y el problema de Joseph//* Metodo para resolver el problema de jose y elegir una persona de entre       * varias para hacer alguna tarea particular      * @param listaPersonas -- Lista con los datos de las personas      * @param nPersonas -- entero con la cantidad de personas en la lista      * @param numero -- entero para saber cada cuantos se elimina una persona       *  de la lista
